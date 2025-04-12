@@ -5,7 +5,18 @@ export default {
     "./src/**/*.{js,jsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        comic: ['"Comic Neue"', 'cursive'],
+        fredoka: ['"Fredoka"', 'cursive'],
+      },
+      colors: {
+        pastelBlue: "#A7D8FF",
+        pastelGreen: "#B8F2E6",
+        pastelPink: "#FFCCD5",
+        pastelYellow: "#FFFACD"
+      },
+    },
   },
   plugins: [],
 }

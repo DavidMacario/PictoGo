@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <div className="text-2xl font-bold text-blue-500 p-4">
-      ¡Hola PictoGo!
+      ¡Hola PictoGo! Commit Testing
     </div>
     </>
   )
